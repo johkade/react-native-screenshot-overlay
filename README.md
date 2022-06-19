@@ -20,7 +20,7 @@ This little tool will help you double-check whether you nailed implementing the 
 - You should use the same device as a simulator for development.
 - Implement the UI using the prototype and the actual values as reference - most prototyping tools will nicely show you the actual margins, colors, etc - so don't just wing it.
 - ( most likely you will use a proper styling system like dripsy, restyle or something similar )
-- as soo as you're finished, double-check your code using the UIOverlay with an actual screenshot of the screen you implemented.
+- as soon as you're finished, double-check your code using the UIOverlay with an actual screenshot of the screen you implemented.
 
 ## Usage
 
